@@ -62,6 +62,14 @@ main {
   color: grey;
 }
 
+/*Imágnes*/
+#imagen1{
+  border-radius: 50%;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black;
+}
+
 /*Pie de página*/
 footer {
   text-align: center;
